@@ -1,0 +1,75 @@
+.images {
+  max-width: 20%;
+  height: auto;
+}
+
+.navigation {
+  display: inline-block;
+  font-size: large;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: #8abd91;
+  border: none;
+  color: darkgreen;
+}
+
+h1 {
+  font-size: 2.5em;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 2em;
+}
+
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.5em;
+}
+
+table {
+  width: 100%;
+}
+
+tr:hover {
+  background-color: #d7ffc7;
+}
+tr{
+    font-size: 1.2em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+th, td {
+    padding: 15px;
+    text-align: left;
+  }
+/* 
+  ol {
+    background: #ff9999;
+    padding: 20px;
+  } */
+
+
+ol li {
+    font-size: 1.2em;
+    padding: 5px;
+    margin-left: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+ol li:hover{
+    background-color: #ffcccb;
+}
+
+input[type=text] {
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 1px solid #acca92;
+    border-radius: 10%;
+  }
+
+  .email-text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+  }
